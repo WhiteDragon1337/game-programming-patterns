@@ -710,7 +710,7 @@ kind of behavior you want them to create.
 
 <aside name="text">
 
-The scripting system I wrote for [Henry Hatsworth and the Puzzling Adventure](ht
+The scripting system I wrote for [*Henry Hatsworth and the Puzzling Adventure*](ht
 tp://en.wikipedia.org/wiki/Henry_Hatsworth_in_the_Puzzling_Adventure) worked
 like this.
 
