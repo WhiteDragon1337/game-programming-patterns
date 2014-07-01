@@ -237,7 +237,7 @@ But it isn't without its detractors. When I've asked other game programmers what
 they think about this pattern, I hear a few common complaints. Let's see what we
 can do to address them, if anything.
 
-## "It's Too Slow"
+## ''It's Too Slow''
 
 I hear this a lot, often from programmers who don't actually know the details of
 the pattern. They have a default assumption that anything that smells like a
@@ -296,7 +296,7 @@ deadlock the game. In a highly threaded engine, you may be better off with
 asynchronous communication using an <a href="event-queue.html"
 class="pattern">Event Queue</a>.
 
-## "It Does Too Much Dynamic Allocation"
+## ''It Does Too Much Dynamic Allocation''
 
 Whole tribes of the programmer clan -- including many game developers -- have
 moved onto garbage collected languages, and dynamic allocation isn't the boogie
