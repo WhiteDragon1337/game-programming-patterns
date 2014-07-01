@@ -517,7 +517,7 @@ The question then is how should it be represented? How does it keep track of its
 
     But that doesn't mean you can *only* use this pattern with components! Any time you have performance critical code that touches a lot of data, it's important to think about locality.
 
-* Tony Albrecht's <a href="http://research.scee.net/files/presentations/gcapaustralia09/Pitfalls_of_Object_Oriented_Programming_GCAP_09.pdf" class="pdf">"Pitfalls of Object-Oriented Programming"</a> is probably the most widely-read introduction to designing your game's data structures for cache-friendliness. It made a lot more people (including me!) aware of how big a deal this is for performance.
+* Tony Albrecht's <a href="http://research.scee.net/files/presentations/gcapaustralia09/Pitfalls_of_Object_Oriented_Programming_GCAP_09.pdf"  class="pdf">"Pitfalls of Object-Oriented Programming"</a> is probably the most widely-read introduction to designing your game's data structures for cache-friendliness. It made a lot more people (including me!) aware of how big a deal this is for performance.
 
 * Around the same time, Noel Llopis wrote a [very influential blog post](http://gamesfromwithin.com/data-oriented-design) on the same topic.
 
